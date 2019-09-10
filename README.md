@@ -71,5 +71,5 @@ Yutong Fang and Bingzhi Dong
 - Computer Graphics 2015: http://www.cad.zju.edu.cn/home/zhx/CG/2015/doku.php
 - Computer Graphics 2016: http://www.cad.zju.edu.cn/home/zhx/CG/2016/doku.php
 - Computer Graphics 2017: http://www.cad.zju.edu.cn/home/zhx/CG/2017/doku.php
-- Computer Graphics 2018: http://www.cad.zju.edu.cn/home/zhx/CG/2018/doku.php
+- Computer Graphics 2018: http://www.cad.zju.edu.cn/home/zhx/CG/2018/doku.php ( [https://github.com/hongxin/CGCourse-2018](github) )
 
