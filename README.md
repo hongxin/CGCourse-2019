@@ -15,7 +15,7 @@ Yutong Fang and Bingzhi Dong
 
 ### Teaching 
 + Room 304, Building 7, Yu-Quan Campus, Zhejiang University
-+ 02:05PM - 03:30PM, Wednesday
++ 02:05PM - 03:40PM, Wednesday
 
 ### Experiments 
 + Room 501, Cao Guang Biao Building (West), Yu-Quan Campus, Zhejiang University
