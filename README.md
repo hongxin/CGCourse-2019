@@ -12,9 +12,14 @@ Dr. Hongxin Zhang http://www.cad.zju.edu.cn/home/zhx/
 Yutong Fang and Bingzhi Dong 
 
 ## Classroom & Time
+
+### Teaching 
 + Room 304, Building 7, Yu-Quan Campus, Zhejiang University
 + 02:05PM - 03:30PM, Wednesday
-+ 06:30PM - 08:05PM, Wednesday (experiments, every even week)
+
+### Experiments 
++ Room 501, Cao Guang Biao Building (West), Yu-Quan Campus, Zhejiang University
++ 06:30PM - 08:05PM, Wednesday (every even week)
 
 ## Schedule
 |  No. |   Topic          |     Date     |                  Slides                                   |   Course note      |
