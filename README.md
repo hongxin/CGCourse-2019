@@ -30,12 +30,12 @@ Yutong Fang and Bingzhi Dong
 |  02  |  2D Primitive    |  2019.09.18  |  [2D Primitive](pdf/02_primitive.pdf)                     |   Chapter 2        |
 |  03  |  OpenGL          |  2019.09.25  |  [OpenGL introduction](pdf/03_opengl.pdf)                 |   Chapter 3        |
 |      |                  |              |  [Simple Glut-OpenGL Demos](src/ogl)                      |                    |
-|  04  |  Attributes      |  2019.xx.xx  |  [OpenGL and Scanline Algorithms](pdf/04_attribute.pdf)   |   Chapter 4        |
+|  04  |  Attributes      |  2019.10.09  |  [OpenGL and Scanline Algorithms](pdf/04_attribute.pdf)   |   Chapter 4        |
 |      |                  |              |  [A scanline algorithm](https://www.techfak.uni-bielefeld.de/ags/wbski/lehre/digiSA/WS0607/3DVRCG/Vorlesung/13.RT3DCGVR-vertex-2-fragment.pdf)                      |                    |
-|  05  |  Transform (I)   |  2019.xx.xx  |  [Triangles and transforms](pdf/05_transform_1.pdf)       |   Chapter 5        |
-|  06  |  Transform (II)  |  2019.xx.xx  |  [Transforms and matrices](pdf/06_transform_2.pdf)        |   Chapter 6        |
+|  05  |  Transform (I)   |  2019.10.16  |  [Triangles and transforms](pdf/05_transform_1.pdf)       |   Chapter 5        |
+|  06  |  Transform (II)  |  2019.10.23  |  [Transforms and matrices](pdf/06_transform_2.pdf)        |   Chapter 6        |
 |      |                  |              |  [Quaternions](pdf/quatut-2-2.pdf)                        |   --               |
-|  07  |View in 2D and 3D |  2019.xx.xx  |  [View port](pdf/07_view_2d.pdf)                          |   Chapter 7        |
+|  07  |View in 2D and 3D |  2019.10.30  |  [View port](pdf/07_view_2d.pdf)                          |   Chapter 7        |
 |      |       --         |    --        |         --                                                |   --               |
 |  08  | HLHSR            |  2019.xx.xx  |  [BC, z-buffer and BSP](pdf/08_hidden_surface_elimination.pdf) |   Chapter 8        |
 |      |       --         |    --        |         --                                                |   --               |
@@ -47,7 +47,7 @@ Yutong Fang and Bingzhi Dong
 
 ## Homework
 
-+ [2019-09-18] Bresenham algorithm for drawing circle (ellipse) [PDF](pdf/homework01.pdf) (deadline: 2019-xx-xx)
++ [2019-09-18] Bresenham algorithm for drawing circle (ellipse) [PDF](pdf/homework01.pdf) (deadline: 2019-10-09)
 + [2019-10-xx] 3D Rotation: build the solar system with OpenGL with tracing effects, real OpenGL implementation preferred [PDF](pdf/homework02.pdf) (deadline: 2019-xx-xx)
 + [2019-11-xx] Seamless stitching 4 iPhone (and/or Android Phone) screen together  [PDF](pdf/homework03.pdf) (deadline: 2019-12-xx)
 + [2019-12-xx] Draw a circle by using Cubic Rational Bezier Curves [PDF](pdf/homework04.pdf) (deadline: 2019-12-xx)
