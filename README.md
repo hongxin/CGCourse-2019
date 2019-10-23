@@ -37,13 +37,18 @@ Yutong Fang and Bingzhi Dong
 |      |                  |              |  [Quaternions](pdf/quatut-2-2.pdf)                        |   --               |
 |  07  |View in 2D and 3D |  2019.10.30  |  [View port](pdf/07_view_2d.pdf)                          |   Chapter 7        |
 |      |       --         |    --        |         --                                                |   --               |
-|  08  | HLHSR            |  2019.xx.xx  |  [BC, z-buffer and BSP](pdf/08_hidden_surface_elimination.pdf) |   Chapter 8        |
+|  08  | HLHSR            |  2019.11.13  |  [BC, z-buffer and BSP](pdf/08_hidden_surface_elimination.pdf) |   Chapter 8        |
 |      |       --         |    --        |         --                                                |   --               |
-|  09  | Curves           |  2019.xx.xx  |  [Bezier curves](pdf/09_curves.pdf)                       |   Chapter 9        |
-|  10  | Surfaces         |  2019.xx.xx  |  [Spline surfaces](pdf/10_surfaces.pdf)                   |   Chapter 10       |
-|  11  | Complex Objects  |  2019.xx.xx  |  [Complex 3D](pdf/11_complex_3d.pdf)                      |   Chapter 11       |
+|  09  | Curves           |  2019.11.20  |  [Bezier curves](pdf/09_curves.pdf)                       |   Chapter 9        |
+|  10  | Surfaces         |  2019.11.27  |  [Spline surfaces](pdf/10_surfaces.pdf)                   |   Chapter 10       |
+|  11  | Complex Objects  |  2019.12.04  |  [Complex 3D](pdf/11_complex_3d.pdf)                      |   Chapter 11       |
 |      |       --         |    --        |         --                                                |   --               |
-|  12  | Illumination     |  2019.xx.xx  |  [Shading](pdf/12_illumination.pdf)                       |   Chapter 12       |
+|  12  | Illumination     |  2019.12.11  |  [Shading](pdf/12_illumination.pdf)                       |   Chapter 12       |
+|  13  | Illumination     |  2019.12.18  |  [Shading](pdf/12_illumination.pdf)                       |   Chapter 12       |
+|  14  | Illumination     |  2019.12.25  |  [Shading](pdf/12_illumination.pdf)                       |   Chapter 12       |
+|  15  | Review           |  2019.12.11  |  [Shading](pdf/12_illumination.pdf)                       |   Chapter 12       |
+
+
 
 ## Homework
 
