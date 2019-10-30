@@ -69,7 +69,7 @@ Yutong Fang and Bingzhi Dong
 
 + Deadline: 2020-01-xx
 + Demo day: 2020-01-xx
-+ Requirement: [plase refer to this pdf](pdf/course-porject-2019.pdf)
++ Requirement: [please refer to this pdf](pdf/course-porject-2019.pdf)
 
 ## Previous courseware
 
