@@ -53,8 +53,8 @@ Yutong Fang and Bingzhi Dong
 ## Homework
 
 + [2019-09-18] Bresenham algorithm for drawing circle (ellipse) [PDF](pdf/homework01.pdf) (deadline: 2019-10-09)
-+ [2019-10-xx] 3D Rotation: build the solar system with OpenGL with tracing effects, real OpenGL implementation preferred [PDF](pdf/homework02.pdf) (deadline: 2019-xx-xx)
-+ [2019-11-xx] Seamless stitching 4 iPhone (and/or Android Phone) screen together  [PDF](pdf/homework03.pdf) (deadline: 2019-12-xx)
++ [2019-10-16] 3D Rotation: build the solar system with OpenGL with tracing effects, real OpenGL implementation preferred [PDF](pdf/homework02.pdf) (deadline: 2019-xx-xx)
++ [2019-10-30] Seamless stitching 4 virtual (iphone, ipad and/or Android Phone) screen together  [PDF](pdf/homework03.pdf) (deadline: 2019-11-20)
 + [2019-12-xx] Draw a circle by using Cubic Rational Bezier Curves [PDF](pdf/homework04.pdf) (deadline: 2019-12-xx)
 + [2020-01-xx] Model a 3D scene about your desktop, and render it in POVRAY
 
@@ -69,7 +69,7 @@ Yutong Fang and Bingzhi Dong
 
 + Deadline: 2020-01-xx
 + Demo day: 2020-01-xx
-+ Requirement: [计算机图形学课程大项目要求](pdf/课程大程序2019.pdf)
++ Requirement: [plase refer to this pdf](pdf/course-porject-2019.pdf)
 
 ## Previous courseware
 
