@@ -43,20 +43,21 @@ Yutong Fang and Bingzhi Dong
 |  10  | Surfaces         |  2019.11.27  |  [Spline surfaces](pdf/10_surfaces.pdf)                   |   Chapter 10       |
 |  11  | Complex Objects  |  2019.12.04  |  [Complex 3D](pdf/11_complex_3d.pdf)                      |   Chapter 11       |
 |      |       --         |    --        |         --                                                |   --               |
-|  12  | Illumination     |  2019.12.11  |  [Shading](pdf/12_illumination.pdf)                       |   Chapter 12       |
-|  13  | Illumination     |  2019.12.18  |  [Shading](pdf/12_illumination.pdf)                       |   Chapter 12       |
-|  14  | Illumination     |  2019.12.25  |  [Shading](pdf/12_illumination.pdf)                       |   Chapter 12       |
-|  15  | Review           |  2019.12.11  |  [Shading](pdf/12_illumination.pdf)                       |   Chapter 12       |
-
+|  12  | Illumination(I)  |  2019.12.11  |  [Shading](pdf/12_illumination.pdf)                       |   Chapter 12       |
+|  13  | Illumination(II) |  2019.12.18  |  [Texture](pdf/13_illumination.pdf)                       |   Chapter 13       |
+|  14  | Illumination(III)|  2019.12.25  |  [Rendering](pdf/14_illumination.pdf)                     |   Chapter 14       |
+|      |       --         |    --        |         --                                                |   --               |
+|  15  | Review           |  2020.01.07  |  [GPU](pdf/15_illumination.pdf)                           |   Chapter 15       |
+|  16  | Project Demos    |  2020.01.07  |                                                           |   -----------      |
 
 
 ## Homework
 
 + [2019-09-18] Bresenham algorithm for drawing circle (ellipse) [PDF](pdf/homework01.pdf) (deadline: 2019-10-09)
-+ [2019-10-16] 3D Rotation: build the solar system with OpenGL with tracing effects, real OpenGL implementation preferred [PDF](pdf/homework02.pdf) (deadline: 2019-xx-xx)
++ [2019-10-16] 3D Rotation: build the solar system with OpenGL with tracing effects, real OpenGL implementation preferred [PDF](pdf/homework02.pdf) (deadline: 2019-10-30)
 + [2019-10-30] Seamless stitching 4 virtual (iphone, ipad and/or Android Phone) screen together  [PDF](pdf/homework03.pdf) (deadline: 2019-11-20)
-+ [2019-12-xx] Draw a circle by using Cubic Rational Bezier Curves [PDF](pdf/homework04.pdf) (deadline: 2019-12-xx)
-+ [2020-01-xx] Model a 3D scene about your desktop, and render it in POVRAY
++ [2019-11-27] Draw a circle by using Cubic Rational Bezier Curves [PDF](pdf/homework04.pdf) (deadline: 2019-12-11)
++ [2020-12-11] Model a 3D scene about your desktop, and render it in POVRAY [PDF](pdf/homework05.pdf) (deadline: 2019-12-25)
 
 ## Reference Links
 
@@ -67,8 +68,8 @@ Yutong Fang and Bingzhi Dong
 
 ## Course Project
 
-+ Deadline: 2020-01-xx
-+ Demo day: 2020-01-xx
++ Deadline: 2020-01-17
++ Demo day: 2020-01-07
 + Requirement: [please refer to this pdf](pdf/course-project-2019.pdf)
 
 ## Previous courseware
