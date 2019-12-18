@@ -44,7 +44,7 @@ Yutong Fang and Bingzhi Dong
 |  11  | Complex Objects  |  2019.12.04  |  [Complex 3D](pdf/11_complex_3d.pdf)                      |   Chapter 11       |
 |      |       --         |    --        |         --                                                |   --               |
 |  12  | Illumination(I)  |  2019.12.11  |  [Shading](pdf/12_illumination.pdf)                       |   Chapter 12       |
-|  13  | Illumination(II) |  2019.12.18  |  [Texture](pdf/13_illumination.pdf)                       |   Chapter 13       |
+|  13  | Illumination(II) |  2019.12.18  |  [Texture](pdf/13_texture_mapping.pdf)                    |   Chapter 13       |
 |  14  | Illumination(III)|  2019.12.25  |  [Rendering](pdf/14_illumination.pdf)                     |   Chapter 14       |
 |      |       --         |    --        |         --                                                |   --               |
 |  15  | Review           |  2020.01.07  |  [GPU](pdf/15_illumination.pdf)                           |   Chapter 15       |
@@ -57,7 +57,7 @@ Yutong Fang and Bingzhi Dong
 + [2019-10-16] 3D Rotation: build the solar system with OpenGL with tracing effects, real OpenGL implementation preferred [PDF](pdf/homework02.pdf) (deadline: 2019-10-30)
 + [2019-10-30] Seamless stitching 4 virtual (iphone, ipad and/or Android Phone) screen together  [PDF](pdf/homework03.pdf) (deadline: 2019-11-20)
 + [2019-11-27] Draw a circle by using Cubic Rational Bezier Curves [PDF](pdf/homework04.pdf) (deadline: 2019-12-11)
-+ [2020-12-11] Model a 3D scene about your desktop, and render it in POVRAY [PDF](pdf/homework05.pdf) (deadline: 2019-12-25)
++ [2019-12-18] Model a 3D scene about your desktop, and render it in POVRAY [PDF](pdf/homework05.pdf) (deadline: 2020-01-07)
 
 ## Reference Links
 
@@ -65,6 +65,7 @@ Yutong Fang and Bingzhi Dong
 + [A walkthrough of computer graphics](http://www.pling.org.uk/cs/cgv.html)
 + [Basic theory of computer graphics](http://www.ntu.edu.sg/home/ehchua/programming/opengl/CG_BasicsTheory.html)
 + [Real-time rendering](http://www.realtimerendering.com/)
++ [POVRAY](http://www.povray.org)
 
 ## Course Project
 
