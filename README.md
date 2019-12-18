@@ -57,7 +57,7 @@ Yutong Fang and Bingzhi Dong
 + [2019-10-16] 3D Rotation: build the solar system with OpenGL with tracing effects, real OpenGL implementation preferred [PDF](pdf/homework02.pdf) (deadline: 2019-10-30)
 + [2019-10-30] Seamless stitching 4 virtual (iphone, ipad and/or Android Phone) screen together  [PDF](pdf/homework03.pdf) (deadline: 2019-11-20)
 + [2019-11-27] Draw a circle by using Cubic Rational Bezier Curves [PDF](pdf/homework04.pdf) (deadline: 2019-12-11)
-+ [2019-12-18] Model a 3D scene about your desktop, and render it in POVRAY [PDF](pdf/homework05.pdf) (deadline: 2020-01-07)
++ [2019-12-18] Model a 3D scene of your dream car, and render it in POVRAY [PDF](pdf/homework05.pdf) (deadline: 2020-01-07)
 
 ## Reference Links
 
