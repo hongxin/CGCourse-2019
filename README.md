@@ -47,7 +47,7 @@ Yutong Fang and Bingzhi Dong
 |  13  | Illumination(II) |  2019.12.18  |  [Texture](pdf/13_texture_mapping.pdf)                    |   Chapter 13       |
 |  14  | Illumination(III)|  2019.12.25  |  [Rendering](pdf/14_illumination.pdf)                     |   Chapter 14       |
 |      |       --         |    --        |         --                                                |   --               |
-|  15  | Review           |  2020.01.07  |  [GPU](pdf/15_illumination.pdf)                           |   Chapter 15       |
+|  15  | Review           |  2020.01.07  |  [GPU](pdf/15_review.pdf)                                 |   Chapter 15       |
 |  16  | Project Demos    |  2020.01.07  |                                                           |   -----------      |
 
 
