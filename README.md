@@ -47,7 +47,7 @@ Yutong Fang and Bingzhi Dong
 |  13  | Illumination(II) |  2019.12.18  |  [Texture](pdf/13_texture_mapping.pdf)                    |   Chapter 13       |
 |  14  | Illumination(III)|  2019.12.25  |  [Rendering](pdf/14_illumination.pdf)                     |   Chapter 14       |
 |      |       --         |    --        |         --                                                |   --               |
-|  15  | Review           |  2020.01.07  |  [GPU](pdf/15_review.pdf)                                 |   Chapter 15       |
+|  15  | Review           |  2020.01.07  |  [Review and GPU](pdf/15_review.pdf)                      |   Chapter 15       |
 |  16  | Project Demos    |  2020.01.07  |                                                           |   -----------      |
 
 
@@ -57,7 +57,7 @@ Yutong Fang and Bingzhi Dong
 + [2019-10-16] 3D Rotation: build the solar system with OpenGL with tracing effects, real OpenGL implementation preferred [PDF](pdf/homework02.pdf) (deadline: 2019-10-30)
 + [2019-10-30] Seamless stitching 4 virtual (iphone, ipad and/or Android Phone) screen together  [PDF](pdf/homework03.pdf) (deadline: 2019-11-20)
 + [2019-11-27] Draw a circle by using Cubic Rational Bezier Curves [PDF](pdf/homework04.pdf) (deadline: 2019-12-11)
-+ [2019-12-18] Model a 3D scene of your dream car, and render it in POVRAY [PDF](pdf/homework05.pdf) (deadline: 2020-01-07)
++ [2019-12-18] Model a 3D scene of your dream car, and render it in POVRAY [PDF](pdf/homework05.pdf) (deadline: 2020-01-17)
 
 ## Reference Links
 
